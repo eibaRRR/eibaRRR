@@ -61,6 +61,6 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=eibaRRR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" alt="Rabie's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibaRRR&theme=github_dark" alt="Rabie's GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=eibaRRR&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" />
